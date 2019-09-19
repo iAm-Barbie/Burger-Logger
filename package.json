@@ -1,0 +1,25 @@
+{
+  "name": "burger-logger",
+  "version": "1.0.0",
+  "description": "burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "y",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbieDoLLxo/Burger-Logger.git"
+  },
+  "author": "Jenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarbieDoLLxo/Burger-Logger/issues"
+  },
+  "homepage": "https://github.com/BarbieDoLLxo/Burger-Logger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
